@@ -2,7 +2,7 @@
 
 See short tutorial originally from [here](https://pgi-jcns.fz-juelich.de/portal/pages/using-c-from-python.html).
 
-Here I implement the a simple funtion to compute the mutual information between two binary time series in C, and import it to Python via a shared object (.so).
+Here I implement the a simple function to compute the mutual information between two binary time series in C, and import it to Python via a shared object (.so).
 
 ## How to run
 
